@@ -1,0 +1,21 @@
+# Dependencias
+node_modules/
+
+# Salida de compilacion y cache de Angular
+dist/
+.angular/
+out-tsc/
+tmp/
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+
+# IDE y sistema
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+.DS_Store
+Thumbs.db
